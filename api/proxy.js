@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const targetUrl = 'https://xb6rf.com/ph';
+  const targetUrl = 'https://bpl.ptpica.cc/ph';
   
   // 直接返回纯净的iframe页面，无任何多余文字
   res.setHeader('Content-Type', 'text/html');
